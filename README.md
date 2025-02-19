@@ -9,3 +9,4 @@ So I have to use the same license as them
 Please credit Acetonee if your project appears to have the same code as theirs
 <br>
 Ok sorry for my bad English and kthxbai
+# Note: this repo is archived and is replaced with a new version which could be found in my list of repos
